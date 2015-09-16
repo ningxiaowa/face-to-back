@@ -1,0 +1,19 @@
+{
+  "name": "face-to-back",
+  "version": "1.0.0",
+  "description": "A free website for traveller & photographer, use cool & new technologies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ningxiaowa/face-to-back.git"
+  },
+  "author": "ningxiaowa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ningxiaowa/face-to-back/issues"
+  },
+  "homepage": "https://github.com/ningxiaowa/face-to-back"
+}
