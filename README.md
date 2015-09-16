@@ -1,6 +1,5 @@
 # face-to-back
-## A free website for traveller &amp; photographer, 
-## use cool &amp; new technologies.
+## A free website for traveller &amp; photographer, use cool &amp; new technologies.
 
 ## front
 + react
